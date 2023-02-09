@@ -10,5 +10,5 @@ Setup
 4. add .yml file into your workflow 
 
 
-main.yml is a standard deployment setup on push
-main_vuejs_build.yml will build and deploy the app everytime you push 
+-main.yml is a standard deployment setup on push
+-main_vuejs_build.yml will build and deploy the app everytime you push 
